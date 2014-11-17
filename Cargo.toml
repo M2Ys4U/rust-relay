@@ -1,0 +1,5 @@
+[package]
+
+name = "rust-relay"
+version = "0.1.0"
+authors = ["Jack Allnutt <jack@allnutt.eu>"]
