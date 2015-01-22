@@ -1,6 +1,6 @@
 # Rust-Relay
 
-Rust-Relay is an IRC(v3) client library written in [Rust](https://rust-lang.org/).
+Rust-Relay is an IRC(v3) client library written in a really old version of [Rust](https://rust-lang.org/). You almost certainly don't want to use this.
 
 ## Components
 
